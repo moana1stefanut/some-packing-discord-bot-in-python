@@ -1,2 +1,1 @@
-pip install discord.py
-host it via uptimerobot.com - created on November 15, 2023
+Created on November 2023. Get it up via "uptimerobot".
